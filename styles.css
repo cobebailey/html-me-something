@@ -1,0 +1,49 @@
+body {
+    background-color: slategrey;
+}
+p {
+    font-family: 'Noto Serif', serif;
+}
+.centered {
+    text-align: center;
+}
+.link {
+    font-family: 'Acme', sans-serif;;
+}
+h2 {
+    font-family: 'Staatliches', cursive;
+}
+.back {
+    background-image: url("http://www.enworld.org/forum/attachment.php?attachmentid=61746&d=1400610665&stc=1");
+}
+h2 {
+    text-align: center;
+}
+.class-text {
+    margin-left: 50%;
+    ;
+}
+.fl-img {
+    float: left;
+    clear: right;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 2px;
+    max-width: 350px;
+    max-height: 250px;
+}
+#Maintitle {
+    color: orange;
+    
+}
+article {
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    border: solid black 3px;
+}
+#Maintitle {
+    margin-right: 10px;
+    margin-left: 10px;
+}
